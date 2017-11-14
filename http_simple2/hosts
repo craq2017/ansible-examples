@@ -1,7 +1,7 @@
 [webservers]
-webserver.local
+at-demo-01.aq.lab
 
 [dbservers]
-dbserver.local
+at-demo-02.aq.lab
 
 
